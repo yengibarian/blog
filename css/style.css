@@ -123,6 +123,12 @@ h6{
 .sub-icons-item:hover{
     color:#212121;
 }
+@media (max-width: 1900px) {
+    
+    .card:nth-child(4) {
+        margin: 0 auto;
+    }
+}
 
 @media (max-width: 1200px) {
     .logo,.container-fluid,section{
